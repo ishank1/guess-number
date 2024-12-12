@@ -16,4 +16,4 @@ while numguess<3:
 if guess==number:
   print("you are correct")
 else:
-  print("fuck you the number is ",number)
+  print("sorry the number is ",number)
